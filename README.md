@@ -9,4 +9,6 @@ Improving the performance of KNN for classification problems.
 As we can see that at **k=31** the error is least, hence the best value for K is 31.
 
 ## 3) Final Model Performance
-![](Screenshot_2.jpg)
+![](Screenshot_2.jpg)                                                                                                               
+
+The model improved its accuracy from **79% to 84%**.
